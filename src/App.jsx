@@ -9,10 +9,10 @@ function App() {
 
   let images = [
     {
-      image:"./src/assets/cat.png"
+      image:"pets/cat.png"
     },
     {
-      image:"./src/assets/puppy.jpg"
+      image:"pets/puppy.jpg"
     },
   ]
 
