@@ -20,7 +20,7 @@ function App() {
     <>
       <div className="images">
         {images.map((item)=>{
-          return <img src={item.image} alt="" />
+          return <img src={item.image} alt="" /> 
         })}
       </div>
     </>
