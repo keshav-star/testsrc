@@ -21,7 +21,7 @@ function App() {
 
   let images = [
     {
-      image: "pets/ca t.png"
+      image: "pets/cat.png"
     },
     {
       image: "pets/puppy.jpg"
